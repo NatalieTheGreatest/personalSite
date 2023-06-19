@@ -10,8 +10,8 @@ export default function Home() {
           height={500}
           alt="It's Me!"
         />
-        <h1 className="text-[#FFFFFF]">
-            Natalie Friede's Personal Website
+        <h1 className="text-[#FFFFFE]">
+                Natalie Friede’s Personal Website
         </h1>
        
         </div>
