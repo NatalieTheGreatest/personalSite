@@ -4,11 +4,11 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-20">
          <a className="header flex width:50"  href="/fish">
-         <h1 className="text-[#FFFFFE]">
+         <h1 className="text-[#FFFFFE] font-bold text-lg">
           !  CLICK HERE TO SEE FISH !
             </h1>
          </a>
-      <div className="w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
+      <div className="w-full max-w-5xl items-center justify-between font-mono lg:flex">
       <Image
           src="/natalie.png"
           width={500}
