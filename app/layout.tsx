@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Natalie Friede Site',
-  description: 'The personal site for the only Natalie Friede in the Northwest Arkansas Area',
+  description: 'The personal site for the only Natalie Friede on the continent',
 }
 
 export default function RootLayout({

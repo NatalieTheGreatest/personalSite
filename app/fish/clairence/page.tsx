@@ -60,7 +60,7 @@ export default function Home() {
        
         <div className="items-center justify-between  font-family:menlo">
         <h3 className="text-[#FFFFFF]">
-     Here shown is Clairence. He is a mysterious being who has shifted colors. When he initially arrived at the tank he was a lovely shade of gray, but has progressed into a dazzling shade of light orange. He aims to go to purdue University this fall, but has yet to apply since he cannot work a computer on his own.
+     Here shown is Clairence. He is a mysterious being who has shifted colors. When he initially arrived at the tank he was a lovely shade of gray, but has progressed into a dazzling shade of light orange. He aims to go to Purdue University this fall, but has yet to apply since he cannot work a computer on his own.
            </h3>
            </div>
     </main>
